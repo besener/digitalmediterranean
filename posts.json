@@ -1,44 +1,86 @@
 [
   {
     "title": "Guidelines",
-    "date": "2025-09-01",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "images/guidelines.jpg",
+    "date": "2025-09-09",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/guidelines.jpg",
     "file": "guidelines.html"
   },
   {
+    "title": "Proposal",
+    "date": "2025-09-08",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/proposal.jpg",
+    "file": "proposal.html"
+  },
+  {
+    "title": "Final Paper",
+    "date": "2025-09-07",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/finalpaper.jpg",
+    "file": "finalpaper.html"
+  },
+  {
+    "title": "Creating StoryMaps",
+    "date": "2025-09-06",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/creatingstorymaps.jpg",
+    "file": "creatingstorymaps.html"
+  },
+  {
     "title": "Rubrics",
-    "date": "2025-09-02",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "images/rubrics.jpg",
+    "date": "2025-09-05",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/rubrics.jpg",
     "file": "rubrics.html"
   },
   {
     "title": "ArcGIS StoryMaps Settings",
-    "date": "2025-09-03",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "images/settinfs.jpg",
+    "date": "2025-09-04",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/settinfs.jpg",
     "file": "settings.html"
   },
   {
     "title": "Deadlines",
-    "date": "2025-09-04",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "images/deadlines.jpg",
+    "date": "2025-09-03",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/deadlines.jpg",
     "file": "deadlines.html"
   },
   {
     "title": "Digital Humanities",
-    "date": "2025-09-05",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "images/digitalhums.jpg",
+    "date": "2025-09-02",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/digitalhums.jpg",
     "file": "digitalhums.html"
   },
   {
     "title": "Geographic Information System (GIS)",
-    "date": "2025-09-06",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "images/gis.jpg",
+    "date": "2025-09-01",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/gis.jpg",
     "file": "gis.html"
-  }
+  },
+  {
+    "title": "Student Projects",
+    "date": "2025-09-07",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/studentprojects.jpg",
+    "file": "studentprojects.html"
+  },
+  {
+    "title": "Final Paper",
+    "date": "2025-09-08",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/digitalhums.jpg",
+    "file": "digitalhums.html"
+  },
+  {
+    "title": "Creating StoryMaps",
+    "date": "2025-09-09",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/digitalhums.jpg",
+    "file": "digitalhums.html"
+  },
 ]
