@@ -21,7 +21,7 @@
   </script>
 
   <!-- ==============================
-       Internal CSS (or you can put in style.css)
+       Internal CSS (or can move to style.css)
        ============================== -->
   <style>
     /* ==============================
@@ -29,11 +29,11 @@
        ============================== */
     body {
       font-family: Georgia, serif;
-      max-width: 1200px; /* wider for 3 columns */
+      max-width: 1200px; /* wider for 3-column layout */
       margin: 2rem auto;
       padding: 1rem;
       line-height: 1.6;
-      background: #fdfcf7;
+      background: #fdfcf7; /* soft parchment background */
       color: #333;
     }
 
@@ -60,12 +60,8 @@
     }
 
     /* Responsive adjustments */
-    @media (max-width: 1024px) {
-      #post-list { grid-template-columns: repeat(2, 1fr); } /* 2 columns for tablets */
-    }
-    @media (max-width: 600px) {
-      #post-list { grid-template-columns: 1fr; } /* 1 column for mobile */
-    }
+    @media (max-width: 1024px) { #post-list { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 600px) { #post-list { grid-template-columns: 1fr; } }
 
     /* ==============================
        Post Card Styles
@@ -79,7 +75,7 @@
       transition: transform 0.2s ease, box-shadow 0.2s ease;
       display: flex;
       flex-direction: column;
-      height: 100%; /* stretch to match row height */
+      height: 100%; /* stretch card to fill row height */
     }
 
     .post-card:hover {
@@ -93,7 +89,7 @@
       height: 180px;
       object-fit: cover;
       display: block;
-      flex-shrink: 0;
+      flex-shrink: 0; /* prevent shrinking */
     }
 
     /* Text content */
@@ -108,23 +104,27 @@
       -webkit-box-orient: vertical;
       overflow: hidden;
       text-overflow: ellipsis;
-      flex-grow: 1;
+      flex-grow: 1; /* pushes Read More link to bottom */
     }
   </style>
 </head>
 <body>
-  <!-- Header -->
+  <!-- ==============================
+       Header
+       ============================== -->
   <header>
     <h1>Digital Mediterranean Project</h1>
     <p>An ArcGIS StoryMaps Assignment</p>
   </header>
 
-  <!-- Main -->
+  <!-- ==============================
+       Main Content
+       ============================== -->
   <main>
     <h2>Guidelines</h2>
     <div id="post-list"></div>
 
-    <!-- Pagination -->
+    <!-- Pagination controls -->
     <div id="pagination">
       <button id="prev-page" disabled>← Previous</button>
       <span id="page-info">Page 1</span>
@@ -132,7 +132,9 @@
     </div>
   </main>
 
-  <!-- Footer -->
+  <!-- ==============================
+       Footer
+       ============================== -->
   <footer>
     <p>
       <a href="about.html">About Digital Mediterranean</a> |
@@ -146,9 +148,11 @@
     <p>© 2025 Digital Mediterranean Project</p>
   </footer>
 
-  <!-- JS -->
+  <!-- ==============================
+       JavaScript
+       ============================== -->
   <script>
-    const POSTS_PER_PAGE = 9; // show 9 posts per page
+    const POSTS_PER_PAGE = 9; // 9 posts per page
     let posts = [];
     let currentPage = 1;
 
@@ -157,18 +161,23 @@
     const nextBtn = document.getElementById('next-page');
     const pageInfo = document.getElementById('page-info');
 
-    // Load posts.json
+    // ==============================
+    // Load posts.json and sort by "order"
+    // ==============================
     fetch("posts.json")
       .then(res => res.json())
       .then(data => {
-        posts = data.sort((a,b) => new Date(b.date + "T00:00:00") - new Date(a.date + "T00:00:00"));
-        renderPage();
+        // Sort posts by custom "order" field
+        posts = data.sort((a,b) => a.order - b.order);
+        renderPage(); // render first page
       })
       .catch(err => postList.innerHTML = `<p>Error loading posts: ${err}</p>`);
 
-    // Render page of posts
+    // ==============================
+    // Render a page of posts
+    // ==============================
     function renderPage() {
-      postList.innerHTML = '';
+      postList.innerHTML = ''; // clear previous posts
       const start = (currentPage - 1) * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
       const pagePosts = posts.slice(start, end);
@@ -177,6 +186,7 @@
         const dateObj = new Date(post.date + "T00:00:00");
         const formattedDate = dateObj.toLocaleDateString('en-US', {year:'numeric', month:'long', day:'numeric'});
 
+        // Create post card
         const card = document.createElement('div');
         card.className = 'post-card';
         card.innerHTML = `
@@ -190,13 +200,16 @@
         postList.appendChild(card);
       });
 
+      // Update pagination info and button states
       const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
       pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
       prevBtn.disabled = currentPage === 1;
       nextBtn.disabled = currentPage === totalPages;
     }
 
-    // Pagination buttons
+    // ==============================
+    // Pagination button events
+    // ==============================
     prevBtn.addEventListener('click', () => {
       if (currentPage > 1) { currentPage--; renderPage(); window.scrollTo(0,0); }
     });
