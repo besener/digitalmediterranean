@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Guidelines",
+    "date": "2025-09-01",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "images/guidelines.jpg",
+    "file": "guidelines.html"
+  },
+  {
+    "title": "Rubrics",
+    "date": "2025-09-02",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "images/rubrics.jpg",
+    "file": "rubrics.html"
+  },
+  {
+    "title": "ArcGIS StoryMaps Settings",
+    "date": "2025-09-03",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "images/settinfs.jpg",
+    "file": "settings.html"
+  },
+  {
+    "title": "Deadlines",
+    "date": "2025-09-04",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "images/deadlines.jpg",
+    "file": "deadlines.html"
+  },
+  {
+    "title": "Digital Humanities",
+    "date": "2025-09-05",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "images/digitalhums.jpg",
+    "file": "digitalhums.html"
+  },
+  {
+    "title": "Geographic Information System (GIS)",
+    "date": "2025-09-06",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "images/gis.jpg",
+    "file": "gis.html"
+  }
+]
