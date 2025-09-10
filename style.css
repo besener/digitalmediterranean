@@ -4,8 +4,8 @@
 body {
   font-family: Georgia, serif;           /* Elegant serif for readability */
   max-width: 800px;                      /* Constrain width for comfortable reading */
-  margin: 2rem auto;                     /* Center content vertically & horizontally */
-  padding: 1rem;                         /* Inner padding for breathing room */
+  margin: 2rem auto;                     /* Center content */
+  padding: 1rem;                         /* Inner padding */
   line-height: 1.6;                      /* Comfortable line height */
   background: #fdfcf7;                   /* Soft parchment-like background */
   color: #333;                           /* Dark grey text for contrast */
@@ -25,28 +25,28 @@ h1 {
    Hyperlinks
    ============================== */
 a {
-  text-decoration: none;                /* Remove underline initially */
-  color: #333;                          /* Default link color */
-  transition: color 0.25s ease, text-decoration 0.25s ease; /* Smooth color change on hover */
+  text-decoration: none;
+  color: #333;
+  transition: color 0.25s ease, text-decoration 0.25s ease;
 }
 
 a:hover {
-  color: #5f6db3;                       /* Accent hover color */
-  text-decoration: underline;           /* Underline only on hover */
+  color: #5f6db3;                        /* Accent hover color */
+  text-decoration: underline;
 }
 
 /* ==============================
    Navigation Links
    ============================== */
 nav a {
-  margin: 0 10px;                        /* Horizontal spacing between nav links */
-  text-decoration: none;                  /* Remove underline initially */
-  color: #333;                            /* Dark link color */
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
 }
 
 nav a:hover {
-  color: #5f6db3;                        /* Blue hover for interactivity */
-  text-decoration: underline;             /* Underline appears on hover */
+  color: #5f6db3;
+  text-decoration: underline;
 }
 
 /* ==============================
@@ -54,23 +54,23 @@ nav a:hover {
    ============================== */
 footer {
   text-align: center;
-  margin-top: 4rem;                       /* Space above footer */
-  font-size: 0.9rem;                      /* Slightly smaller font */
-  color: #777;                            /* Light grey text */
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  color: #777;
 }
 
 footer a {
-  text-decoration: none;                  /* Remove underline on normal links */
+  text-decoration: none;
   color: #333;
-  margin: 0 0.3rem;                       /* Small spacing between footer links */
+  margin: 0 0.3rem;
 }
 
 footer a:hover {
-  color: #5f6db3;                         /* Hover color */
-  text-decoration: underline;             /* Text links underline on hover */
+  color: #5f6db3;
+  text-decoration: underline;
 }
 
-/* Optional: spacing for first footer link (About Me) */
+/* Optional: spacing for first footer link */
 footer p a:first-child {
   margin-right: 0.6rem;
 }
@@ -79,32 +79,36 @@ footer p a:first-child {
    Social Icon Styling
    ============================== */
 .social-icons a {
-  text-decoration: none;                  /* Remove default underline */
-  margin: 0 8px;                          /* Space between icons */
-  color: #333;                             /* Default icon color */
-  font-size: 1.2rem;                       /* Slightly larger than normal text */
-  transition: color 0.2s ease-in-out;      /* Smooth color change on hover */
+  text-decoration: none;
+  margin: 0 8px;
+  color: #333;
+  font-size: 1.2rem;
+  transition: color 0.2s ease-in-out;
 }
 
 .social-icons a:hover {
-  color: #5f6db3;                        /* Only icon color changes */
-  text-decoration: none;                  /* Ensure icons never underlined */
+  color: #5f6db3;
+  text-decoration: none; /* icons never underlined */
 }
 
 .social-icons i {
-  font-family: "Font Awesome 6 Brands";   /* Ensure brand icons display correctly */
+  font-family: "Font Awesome 6 Brands";
   font-style: normal;
   font-weight: normal;
-  vertical-align: middle;                 /* Align icons with text baseline */
+  vertical-align: middle;
 }
 
 /* ==============================
    Articles / Blog Posts
    ============================== */
+/* ❌ Disabled old article block so it doesn't interfere with card layout
+   (kept here in comments for reference)
+*/
+/*
 article {
-  margin-bottom: 2.5rem;                  /* Space between posts */
-  padding-bottom: 1rem;                   /* Inner bottom padding */
-  border-bottom: 1px solid #ddd;          /* Subtle separator between posts */
+  margin-bottom: 2.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
 }
 
 article h2, article h3 {
@@ -112,16 +116,17 @@ article h2, article h3 {
 }
 
 article h2 {
-  font-size: 1.8rem;                      /* Full post page title */
+  font-size: 1.8rem;
 }
 
 article h3 {
-  font-size: 1.5rem;                      /* Homepage post preview title */
+  font-size: 1.5rem;
 }
 
 article p {
-  margin: 0.5rem 0;                        /* Paragraph spacing */
+  margin: 0.5rem 0;
 }
+*/
 
 /* Links inside post previews */
 #post-list a {
@@ -137,21 +142,20 @@ article p {
 /* ==============================
    Featured Images
    ============================== */
-/* Homepage cropped thumbnails */
 #post-list .post-featured img {
   width: 100%;
   height: 250px;
-  object-fit: cover;                       /* Crop without distortion */
+  object-fit: cover;
   display: block;
   margin-bottom: 0.5rem;
   border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);  /* Soft shadow for depth */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 /* Full post page images */
 .post-featured-post img {
   width: 100%;
-  height: auto;                            /* Maintain aspect ratio */
+  height: auto;
   display: block;
   margin-bottom: 1rem;
   border-radius: 8px;
@@ -163,7 +167,7 @@ article p {
    ============================== */
 #pagination {
   text-align: center;
-  margin-top: 2rem;                        /* Space above pagination buttons */
+  margin-top: 2rem;
 }
 
 #pagination button {
@@ -179,41 +183,31 @@ article p {
 }
 
 #pagination button:hover:not(:disabled) {
-  background-color: #5f6db3;               /* Highlight on hover */
+  background-color: #5f6db3;
   color: #fff;
 }
 
 #pagination button:disabled {
-  opacity: 0.5;                             /* Grey out disabled buttons */
+  opacity: 0.5;
   cursor: default;
 }
 
 /* ==============================
    Back to Page Link Styling
    ============================== */
+/* ✅ Kept only one version of .back-link (removed duplicate) */
 .back-link {
   display: inline-block;
-  margin-top: 1rem;
+  margin: 1rem 0;
   color: #333;
   text-decoration: none;
-  transition: color 0.2s ease-in-out;
+  font-weight: bold;
+  transition: color 0.2s, text-decoration 0.2s;
 }
 
 .back-link:hover {
   color: #5f6db3;
   text-decoration: underline;
-}
-
-/* ==============================
-   Back to Page Link Styling
-   ============================== */
-.back-link {
-  display: inline-block;
-  margin: 1rem 0;              /* Space above/below */
-  color: #333;                  /* Base color */
-  text-decoration: none;        /* Remove underline initially */
-  font-weight: bold;            /* Slightly bolder for visibility */
-  transition: color 0.2s, text-decoration 0.2s; /* Smooth hover transition */
 }
 
 /* ==============================
@@ -223,7 +217,7 @@ article p {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 1.5rem;
-  align-items: stretch; /* ✅ ensures cards stretch evenly */
+  align-items: stretch; /* cards stretch evenly */
 }
 
 .post-card {
@@ -234,9 +228,9 @@ article p {
   overflow: hidden;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   padding: 0;
-  display: flex;             /* ✅ make card contents flex-based */
-  flex-direction: column;    /* stack image + text vertically */
-  height: 100%;              /* ✅ stretch card to full column height */
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .post-card:hover {
@@ -244,16 +238,16 @@ article p {
   box-shadow: 0 6px 12px rgba(0,0,0,0.12);
 }
 
-/* Featured image stays at top */
+/* Featured image at top */
 .post-card .post-featured img {
   width: 100%;
   height: 180px;
   object-fit: cover;
   display: block;
-  flex-shrink: 0; /* ✅ image keeps fixed height */
+  flex-shrink: 0;
 }
 
-/* Text content stretches */
+/* Text spacing */
 .post-card h3,
 .post-card p {
   padding: 0 1rem;
@@ -265,21 +259,18 @@ article p {
   flex-shrink: 0;
 }
 
-.post-card p {
-  margin-bottom: 0.8rem;
-}
-
 /* Excerpt clamped to 3 lines */
 .post-card p {
+  margin-bottom: 0.8rem;
   display: -webkit-box;
   -webkit-line-clamp: 3;   /* number of lines */
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
-  flex-grow: 1;  /* ✅ pushes "Read more" link down */
+  flex-grow: 1;            /* pushes "Read more" down */
 }
 
-/* Keep Read More link pinned at bottom */
+/* Keep Read More link pinned */
 .post-card p:last-child {
   flex-grow: 0;
 }
