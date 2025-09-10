@@ -32,19 +32,19 @@
     "order": 4
   },
   {
-    "title": "Proposal",
+    "title": "Project Proposal",
     "date": "2025-09-05",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/proposal.jpg",
-    "file": "proposal.html",
+    "image": "posts/images/projectproposal.jpg",
+    "file": "projectproposal.html",
     "order": 5
   },
   {
-    "title": "Final Paper",
+    "title": "Final Project Paper",
     "date": "2025-09-06",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/finalpaper.jpg",
-    "file": "finalpaper.html",
+    "image": "posts/images/finalprojectpaper.jpg",
+    "file": "finalprojectpaper.html",
     "order": 6
   },
   {
