@@ -1,52 +1,59 @@
 [
   {
     "title": "Guidelines",
-    "date": "2025-09-09",
+    "date": "2025-09-04",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/guidelines.jpg",
     "file": "guidelines.html"
+    "order": 4
   },
   {
     "title": "Proposal",
-    "date": "2025-09-08",
+    "date": "2025-09-05",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/proposal.jpg",
     "file": "proposal.html"
+    "order": 5
   },
   {
     "title": "Final Paper",
-    "date": "2025-09-07",
+    "date": "2025-09-06",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/finalpaper.jpg",
     "file": "finalpaper.html"
+    "order": 6
   },
   {
     "title": "Creating StoryMaps",
-    "date": "2025-09-06",
+    "date": "2025-09-07",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/creatingstorymaps.jpg",
     "file": "creatingstorymaps.html"
+    "order": 7
   },
   {
     "title": "Rubrics",
-    "date": "2025-09-05",
+    "date": "2025-09-08",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/rubrics.jpg",
     "file": "rubrics.html"
+    "order": 8
   },
   {
     "title": "ArcGIS StoryMaps Settings",
-    "date": "2025-09-04",
+    "date": "2025-08-03",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/settinfs.jpg",
     "file": "settings.html"
+    "order": 10
   },
   {
     "title": "Deadlines",
-    "date": "2025-09-03",
+    "date": "2025-09-09",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/deadlines.jpg",
     "file": "deadlines.html"
+    "order": 9
   },
   {
     "title": "Digital Humanities",
@@ -54,33 +61,38 @@
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/digitalhums.jpg",
     "file": "digitalhums.html"
+    "order": 2
   },
   {
     "title": "Geographic Information System (GIS)",
-    "date": "2025-09-01",
+    "date": "2025-09-03",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/gis.jpg",
     "file": "gis.html"
+    "order": 3
   },
   {
     "title": "Student Projects",
-    "date": "2025-09-10",
+    "date": "2025-09-01",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/studentprojects.jpg",
     "file": "studentprojects.html"
+    "order": 1
   },
   {
-    "title": "Final Paper",
-    "date": "2025-09-12",
+    "title": "Digital Methods",
+    "date": "2025-08-01",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/digitalhums.jpg",
-    "file": "digitalhums.html"
+    "image": "posts/images/digitalmethods.jpg",
+    "file": "digitalmethods.html"
+    "order": 13
   },
   {
-    "title": "Creating StoryMaps",
-    "date": "2025-09-13",
+    "title": "Digital Art History",
+    "date": "2025-08-02",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/digitalhums.jpg",
-    "file": "digitalhums.html"
+    "file": "digitalmethods.html"
+    "order": 14
   }
 ]
