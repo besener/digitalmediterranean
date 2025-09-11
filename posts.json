@@ -9,7 +9,7 @@
   },
   {
     "title": "Geographic Information System (GIS)",
-    "date": "2025-09-03",
+    "date": "2025-09-01",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/gis.jpg",
     "file": "gis.html",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Creating ArcGIS StoryMaps",
-    "date": "2025-09-07",
+    "date": "2025-09-01",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/creatingstorymaps.jpg",
     "file": "creatingstorymaps.html",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Guidelines",
-    "date": "2025-09-04",
+    "date": "2025-09-02",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/guidelines.jpg",
     "file": "guidelines.html",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Project Proposal",
-    "date": "2025-09-05",
+    "date": "2025-09-03",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/projectproposal.jpg",
     "file": "projectproposal.html",
@@ -41,7 +41,7 @@
   },
   {
     "title": "Final Project Paper",
-    "date": "2025-09-06",
+    "date": "2025-09-03",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/finalprojectpaper.jpg",
     "file": "finalprojectpaper.html",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Deadlines",
-    "date": "2025-09-09",
+    "date": "2025-09-04",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/deadlines.jpg",
     "file": "deadlines.html",
@@ -57,7 +57,7 @@
   },
   {
     "title": "Rubrics",
-    "date": "2025-09-08",
+    "date": "2025-09-05",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/rubrics.jpg",
     "file": "rubrics.html",
@@ -65,7 +65,7 @@
   },
   {
     "title": "ArcGIS StoryMaps Settings",
-    "date": "2025-08-03",
+    "date": "2025-08-05",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/smsettings.jpg",
     "file": "smsettings.html",
@@ -73,7 +73,7 @@
   },
   {
     "title": "Digital Humanities",
-    "date": "2025-09-02",
+    "date": "2025-09-07",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/digitalhums.jpg",
     "file": "digitalhums.html",
@@ -81,7 +81,7 @@
   },
   {
     "title": "Digital Methods",
-    "date": "2025-08-01",
+    "date": "2025-08-07",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/digitalmethods.jpg",
     "file": "digitalmethods.html",
@@ -89,7 +89,7 @@
   },
   {
     "title": "Digital Art History",
-    "date": "2025-08-02",
+    "date": "2025-08-07",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/digitalah.jpg",
     "file": "digitalah.html",
