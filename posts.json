@@ -2,17 +2,17 @@
   {
     "title": "Student Projects",
     "date": "2025-09-01",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "excerpt": "For their final class project, undergraduate students in ART_HIST 329...",
     "image": "posts/images/studentprojects.jpg",
     "file": "studentprojects.html",
     "order": 1
   },
   {
-    "title": "Digital Humanities",
-    "date": "2025-09-02",
+    "title": "Creating ArcGIS StoryMaps",
+    "date": "2025-09-07",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/digitalhums.jpg",
-    "file": "digitalhums.html",
+    "image": "posts/images/creatingstorymaps.jpg",
+    "file": "creatingstorymaps.html",
     "order": 2
   },
   {
@@ -48,11 +48,11 @@
     "order": 6
   },
   {
-    "title": "Creating StoryMaps",
-    "date": "2025-09-07",
+    "title": "Deadlines",
+    "date": "2025-09-09",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/creatingstorymaps.jpg",
-    "file": "creatingstorymaps.html",
+    "image": "posts/images/deadlines.jpg",
+    "file": "deadlines.html",
     "order": 7
   },
   {
@@ -64,19 +64,19 @@
     "order": 8
   },
   {
-    "title": "Deadlines",
-    "date": "2025-09-09",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/deadlines.jpg",
-    "file": "deadlines.html",
-    "order": 9
-  },
-  {
     "title": "ArcGIS StoryMaps Settings",
     "date": "2025-08-03",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/smsettings.jpg",
     "file": "smsettings.html",
+    "order": 9
+  },
+  {
+    "title": "Digital Humanities",
+    "date": "2025-09-02",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/digitalhums.jpg",
+    "file": "digitalhums.html",
     "order": 10
   },
   {
@@ -85,7 +85,7 @@
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/digitalmethods.jpg",
     "file": "digitalmethods.html",
-    "order": 13
+    "order": 11
   },
   {
     "title": "Digital Art History",
@@ -93,6 +93,6 @@
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/digitalah.jpg",
     "file": "digitalah.html",
-    "order": 14
+    "order": 12
   }
 ]
