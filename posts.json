@@ -8,19 +8,19 @@
     "order": 1
   },
   {
-    "title": "Creating ArcGIS StoryMaps",
-    "date": "2025-09-07",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/creatingstorymaps.jpg",
-    "file": "creatingstorymaps.html",
-    "order": 2
-  },
-  {
     "title": "Geographic Information System (GIS)",
     "date": "2025-09-03",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/gis.jpg",
     "file": "gis.html",
+    "order": 2
+  },
+  {
+    "title": "Creating ArcGIS StoryMaps",
+    "date": "2025-09-07",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/creatingstorymaps.jpg",
+    "file": "creatingstorymaps.html",
     "order": 3
   },
   {
