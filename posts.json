@@ -2,7 +2,7 @@
   {
     "title": "Student Projects",
     "date": "2025-09-01",
-    "excerpt": "For their final class project, undergraduate students in ART_HIST 329...",
+    "excerpt": "For their final class project, undergraduate students in ART_HIST 329: Art and Architecture of the Mediterranean World create an ArcGIS StoryMaps to visualize...",
     "image": "posts/images/studentprojects.jpg",
     "file": "studentprojects.html",
     "order": 1
@@ -10,7 +10,7 @@
   {
     "title": "Geographic Information System (GIS)",
     "date": "2025-09-01",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "excerpt": "Geographic Information Systems (GIS) in digital humanities enable art historians to incorporate spatial analysis into historical, cultural, and literary studies, thereby...",
     "image": "posts/images/gis.jpg",
     "file": "gis.html",
     "order": 2
