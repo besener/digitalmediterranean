@@ -8,9 +8,9 @@
     "order": 1
   },
   {
-    "title": "Geographic Information System (GIS)",
+    "title": "Geographic Information System",
     "date": "2025-09-01",
-    "excerpt": "Geographic Information Systems (GIS) in digital humanities enable art historians to...",
+    "excerpt": "Geographic Information Systems (GIS) in digital humanities enable art historians to incorporate spatial analysis into...",
     "image": "posts/images/gis.jpg",
     "file": "gis.html",
     "order": 2
