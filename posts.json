@@ -10,7 +10,7 @@
   {
     "title": "Geographic Information System",
     "date": "2025-09-01",
-    "excerpt": "Geographic Information Systems (GIS) in digital humanities enable art historians to incorporate spatial analysis into...",
+    "excerpt": "Geographic Information Systems (GIS) in digital humanities enable art historians to incorporate...",
     "image": "posts/images/gis.jpg",
     "file": "gis.html",
     "order": 2
@@ -18,7 +18,7 @@
   {
     "title": "Creating ArcGIS StoryMaps",
     "date": "2025-09-01",
-    "excerpt": "ArcGIS StoryMaps is a web-based digital tool that enables users to integrate maps, narrative text, images, and...",
+    "excerpt": "ArcGIS StoryMaps is a web-based digital tool that enables users to integrate maps, narrative text,...",
     "image": "posts/images/creatingstorymaps.jpg",
     "file": "creatingstorymaps.html",
     "order": 3
@@ -26,7 +26,7 @@
   {
     "title": "Guidelines",
     "date": "2025-09-02",
-    "excerpt": "This assignment introduces you to ArcGIS StoryMaps, a web-based story-authoring application. You will conduct...",
+    "excerpt": "This assignment introduces you to ArcGIS StoryMaps, a web-based story-authoring application...",
     "image": "posts/images/guidelines.jpg",
     "file": "guidelines.html",
     "order": 4
@@ -66,7 +66,7 @@
   {
     "title": "ArcGIS StoryMaps Settings",
     "date": "2025-09-05",
-    "excerpt": "Once you have finished creating your story map, the final step is to publish it. Publishing allows you to...",
+    "excerpt": "Once you have finished creating your story map, the final step is to publish...",
     "image": "posts/images/smsettings.jpg",
     "file": "smsettings.html",
     "order": 9
