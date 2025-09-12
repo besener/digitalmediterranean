@@ -2,7 +2,7 @@
   {
     "title": "Student Projects",
     "date": "2025-09-01",
-    "excerpt": "For their final class project, undergraduate students in ART_HIST 329 create an ArcGIS StoryMaps to visualize...",
+    "excerpt": "For their final class project, undergraduate students in ART_HIST 329 create an...",
     "image": "posts/images/studentprojects.jpg",
     "file": "studentprojects.html",
     "order": 1
@@ -18,7 +18,7 @@
   {
     "title": "Creating ArcGIS StoryMaps",
     "date": "2025-09-01",
-    "excerpt": "ArcGIS StoryMaps is a web-based digital tool that enables users to integrate maps, narrative text,...",
+    "excerpt": "ArcGIS StoryMaps is a web-based digital tool that enables users to integrate maps, narrative...",
     "image": "posts/images/creatingstorymaps.jpg",
     "file": "creatingstorymaps.html",
     "order": 3
@@ -26,7 +26,7 @@
   {
     "title": "Guidelines",
     "date": "2025-09-02",
-    "excerpt": "This assignment introduces you to ArcGIS StoryMaps, a web-based story-authoring application...",
+    "excerpt": "This assignment introduces you to ArcGIS StoryMaps, a web-based story-authoring...",
     "image": "posts/images/guidelines.jpg",
     "file": "guidelines.html",
     "order": 4
