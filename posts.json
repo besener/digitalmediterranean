@@ -53,7 +53,7 @@
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/rubrics.jpg",
     "file": "rubrics.html",
-    "order": 8
+    "order": 7
   },
   {
     "title": "ArcGIS StoryMaps Settings",
@@ -61,6 +61,6 @@
     "excerpt": "Once you have finished creating your story map, the final step is to publish...",
     "image": "posts/images/smsettings.jpg",
     "file": "smsettings.html",
-    "order": 9
+    "order": 8
   }
 ]
