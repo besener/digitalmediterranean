@@ -48,14 +48,6 @@
     "order": 6
   },
   {
-    "title": "Deadlines",
-    "date": "2025-09-04",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/deadlines.jpg",
-    "file": "deadlines.html",
-    "order": 7
-  },
-  {
     "title": "Rubrics",
     "date": "2025-09-05",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
@@ -70,29 +62,50 @@
     "image": "posts/images/smsettings.jpg",
     "file": "smsettings.html",
     "order": 9
-  },
-  {
+  }
+]
+
+
++++
+    "title": "Deadlines",
+    "date": "2025-09-04",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/deadlines.jpg",
+    "file": "deadlines.html",
+    "order": 7
+ 
+    "title": "Rubrics",
+    "date": "2025-09-05",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "posts/images/rubrics.jpg",
+    "file": "rubrics.html",
+    "order": 8
+ 
+    "title": "ArcGIS StoryMaps Settings",
+    "date": "2025-09-05",
+    "excerpt": "Once you have finished creating your story map, the final step is to publish...",
+    "image": "posts/images/smsettings.jpg",
+    "file": "smsettings.html",
+    "order": 9
+ 
     "title": "Digital Humanities",
     "date": "2025-09-07",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/digitalhums.jpg",
     "file": "digitalhums.html",
     "order": 10
-  },
-  {
+
     "title": "Digital Methods",
     "date": "2025-08-07",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/digitalmethods.jpg",
     "file": "digitalmethods.html",
     "order": 11
-  },
-  {
+ 
     "title": "Digital Art History",
     "date": "2025-08-07",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/digitalah.jpg",
     "file": "digitalah.html",
     "order": 12
-  }
-]
+
