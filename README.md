@@ -1,2 +1,3 @@
 # digitalmediterranean
-Digital Mediterranean Project - Final Assignment Guidelines, Deadlines, Settings, and Rubrics
+Digital Mediterranean Project - Guidelines, Settings, and Rubrics
+
