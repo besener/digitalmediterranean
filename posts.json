@@ -64,11 +64,11 @@
     "order": 8
   },
   {
-  "title": "StoryMaps Guide",
+  "title": "Getting Started With StoryMaps",
   "date": "2026-09-02",
   "excerpt": "A step-by-step guide to creating and designing an ArcGIS StoryMap for the Mapping the Mediterranean project.",
   "image": "posts/images/storymaps-guide.jpg",
   "file": "storymaps-gettingstarted.html",
   "order": 9
-}
+  }
 ]
