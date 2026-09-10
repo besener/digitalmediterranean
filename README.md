@@ -1,6 +1,6 @@
-# ART_HIST 329: Digital Mediterranean Project
+# ART_HIST 322: Digital Mediterranean Project
 
-This is an online guide for your Digital Mediterranean Project for ART_HIST 329: Art and Architecture of the Medieval Mediterranean World.
+This is an online guide for your Digital Mediterranean Project for ART_HIST 322: Art and Architecture of the Medieval Mediterranean World.
 
 ## What is a StoryMap? 
 
