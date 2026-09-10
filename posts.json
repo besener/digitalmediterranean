@@ -1,10 +1,10 @@
 [
   {
     "title": "Student Projects",
-    "date": "2025-09-01",
+    "date": "",
     "excerpt": "For their final class project, undergraduate students in ART_HIST 329 create an ArcGIS...",
     "image": "posts/images/studentprojects.jpg",
-    "file": "studentprojects.html",
+    "file": "arthist322-studentprojects.html",
     "order": 1
   },
   {
@@ -64,7 +64,7 @@
     "order": 8
   },
   {
-  "title": "Getting Started With StoryMaps",
+  "title": "Getting Started with StoryMaps",
   "date": "2026-09-02",
   "excerpt": "A step-by-step guide to creating and designing an ArcGIS StoryMap for the Mapping the Mediterranean project.",
   "image": "posts/images/gis.jpg",
