@@ -9,7 +9,7 @@
    {
   "title": "Getting Started with StoryMaps",
   "excerpt": "A step-by-step guide to creating and designing an ArcGIS StoryMap for the Mapping the Mediterranean project.",
-  "image": "posts/images/gis.jpg",
+  "image": "https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map1.jpg",
   "file": "storymaps-gettingstarted.html",
   "order": 2
   },
