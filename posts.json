@@ -23,22 +23,22 @@
   {
     "title": "Guidelines",
     "excerpt": "This assignment introduces students to StoryMaps, a web-based story-authoring application...",
-    "image": "posts/images/guidelines.jpg",
-    "file": "guidelines.html",
+    "image": "posts/images/arthist322-guidelines.jpg",
+    "file": "arthist322-guidelines.html",
     "order": 4
   },
   {
     "title": "Project Proposal",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/projectproposal.jpg",
-    "file": "projectproposal.html",
+    "image": "posts/images/arthist322-projectproposal.jpg",
+    "file": "arthist322-projectproposal.html",
     "order": 5
   },
   {
     "title": "Lectures",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/finalprojectpaper.jpg",
-    "file": "finalprojectpaper.html",
+    "image": "posts/images/arthist322-lectures.jpg",
+    "file": "arthist322-lectures.html",
     "order": 6
   }
 ]
