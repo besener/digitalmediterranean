@@ -15,7 +15,7 @@
   },
   {
     "title": "Student Showcases",
-    "excerpt": "For their final class project, undergraduate students in ART_HIST 329 create an ArcGIS...",
+    "excerpt": "Each year, students present their ArcGIS Story Maps projects...",
     "image": "posts/images/arthist322-studentshowcases.jpg",
     "file": "arthist322-studentshowcases.html",
     "order": 3
@@ -29,14 +29,14 @@
   },
    {
   "title": "Getting Started with StoryMaps",
-  "excerpt": "A step-by-step guide to creating and designing an ArcGIS StoryMap for the Mapping the Mediterranean project.",
+  "excerpt": "A step-by-step guide to creating and designing an ArcGIS StoryMap for the Digital Mediterranean project.",
   "image": "https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map1.jpg",
   "file": "storymaps-gettingstarted.html",
   "order": 5
   },
   {
     "title": "Guidelines",
-    "excerpt": "This assignment introduces students to StoryMaps, a web-based story-authoring application...",
+    "excerpt": "Your Digital Mediterranean Project...",
     "image": "posts/images/arthist322-guidelines.jpg",
     "file": "arthist322-guidelines.html",
     "order": 6
