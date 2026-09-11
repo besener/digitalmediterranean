@@ -1,9 +1,9 @@
 [
   {
-    "title": "Student Projects",
-    "excerpt": "For their final class project, undergraduate students in ART_HIST 329 create an ArcGIS...",
-    "image": "posts/images/studentprojects.jpg",
-    "file": "arthist322-studentprojects.html",
+    "title": "Geographic Information Systems",
+    "excerpt": "Geographic Information Systems (GIS) in digital humanities...",
+    "image": "posts/images/gis.jpg",
+    "file": "arthist322-arcgis.html",
     "order": 1
   },
    {
@@ -14,10 +14,10 @@
   "order": 2
   },
   {
-    "title": "Geographic Information System",
-    "excerpt": "Geographic Information Systems (GIS) in digital humanities enable art historians to incorporate...",
-    "image": "posts/images/gis.jpg",
-    "file": "gis.html",
+    "title": "Student Showcases",
+    "excerpt": "For their final class project, undergraduate students in ART_HIST 329 create an ArcGIS...",
+    "image": "posts/images/studentshowcases.jpg",
+    "file": "arthist322-studentshowcases.html",
     "order": 3
   },
   {
@@ -35,7 +35,7 @@
     "order": 5
   },
   {
-    "title": "Final Project Paper",
+    "title": "Lectures",
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     "image": "posts/images/finalprojectpaper.jpg",
     "file": "finalprojectpaper.html",
