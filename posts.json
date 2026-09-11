@@ -40,19 +40,5 @@
     "image": "posts/images/arthist322-guidelines.jpg",
     "file": "arthist322-guidelines.html",
     "order": 6
-  },
-  {
-    "title": "Project Proposal",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/arthist322-projectproposal.jpg",
-    "file": "arthist322-projectproposal.html",
-    "order": 7
-  },
-  {
-    "title": "",
-    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-    "image": "posts/images/.jpg",
-    "file": ".html",
-    "order": 8
   }
 ]
