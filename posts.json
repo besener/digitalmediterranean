@@ -22,14 +22,14 @@
   },
   {
     "title": "GIS & ArcGIS StoryMaps: Mapping the Mediterranean",
-    "excerpt": "Using maps, research, and visual storytelling to investigate the movement....",
+    "excerpt": "Using maps, research, and visual storytelling to investigate the movement...",
     "image": "posts/images/gis.jpg",
     "file": "arthist322-arcgis.html",
     "order": 4
   },
    {
   "title": "Getting Started with StoryMaps",
-  "excerpt": "A step-by-step guide to creating and designing an ArcGIS StoryMap for the Digital Mediterranean project.",
+  "excerpt": "A step-by-step guide to creating and designing an ArcGIS StoryMap...",
   "image": "https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map1.jpg",
   "file": "storymaps-gettingstarted.html",
   "order": 5
