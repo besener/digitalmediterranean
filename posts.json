@@ -9,14 +9,14 @@
   {
     "title": "Modules & Workshops",
     "excerpt": "The course integrates class lectures with hands-on sessions...",
-    "image": "posts/images/arthist322-lectures.jpg",
-    "file": "arthist322-lectures.html",
+    "image": "posts/images/arthist322-moduless.jpg",
+    "file": "arthist322-modules.html",
     "order": 2
   },
   {
     "title": "GIS & ArcGIS StoryMaps",
-    "excerpt": "Using maps, research, and visual storytelling to investigate the movement...",
-    "image": "posts/images/gis.jpg",
+    "excerpt": "Using maps, research, and visual storytelling to investigate...",
+    "image": "posts/images/arthist322-arcgis.jpg",
     "file": "arthist322-arcgis.html",
     "order": 3
   },
