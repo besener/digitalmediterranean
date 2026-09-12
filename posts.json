@@ -14,31 +14,31 @@
     "order": 2
   },
   {
-    "title": "Student StoryMaps",
-    "excerpt": "Each year, students present their ArcGIS Story Maps projects...",
-    "image": "posts/images/arthist322-studentstorymaps.jpg",
-    "file": "arthist322-studentstorymaps.html",
-    "order": 3
-  },
-  {
     "title": "GIS & ArcGIS StoryMaps: Mapping the Mediterranean",
     "excerpt": "Using maps, research, and visual storytelling to investigate the movement...",
     "image": "posts/images/gis.jpg",
     "file": "arthist322-arcgis.html",
-    "order": 4
-  },
-   {
-  "title": "Getting Started with StoryMaps",
-  "excerpt": "A step-by-step guide to creating and designing an ArcGIS StoryMap...",
-  "image": "https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map1.jpg",
-  "file": "storymaps-gettingstarted.html",
-  "order": 5
+    "order": 3
   },
   {
     "title": "Guidelines",
     "excerpt": "Your Digital Mediterranean Project...",
     "image": "posts/images/arthist322-guidelines.jpg",
     "file": "arthist322-guidelines.html",
+    "order": 4
+  },
+  {
+    "title": "Student StoryMaps",
+    "excerpt": "Each year, students present their ArcGIS Story Maps projects...",
+    "image": "posts/images/arthist322-studentstorymaps.jpg",
+    "file": "arthist322-studentstorymaps.html",
+    "order": 5
+  },
+  {
+    "title": "Getting Started with StoryMaps",
+    "excerpt": "A step-by-step guide to creating and designing an ArcGIS StoryMap...",
+    "image": "https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map1.jpg",
+    "file": "storymaps-gettingstarted.html",
     "order": 6
   }
 ]
