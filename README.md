@@ -4,7 +4,7 @@ This is an online guide for your Digital Mediterranean Project for ART_HIST 322:
 
 ## What is a StoryMap? 
 
-This assignment will teach us to use [ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview), which is a web-based story-authoring application, to create and share your digital map of monuments and objects in the medieval Mediterranean with narrative text, images, sources, videos, audio, and other multimedia content.
+This assignment will teach us to use [ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview), a web-based story-authoring application, to create and share your digital map of monuments and objects in the medieval Mediterranean with narrative text, images, sources, videos, audio, and other multimedia content.
 
 ## How To Use This Repository
 
